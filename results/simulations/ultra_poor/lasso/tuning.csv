@@ -1,2 +1,2 @@
 mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_dropmissing__threshold,param_dropmissing__variance_threshold,param_model__alpha,param_winsorizer__limits,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
-1.1279695828755696,0.17705799427386915,0.13492496808369955,0.003590598842681658,0.5,0.1,1,"(0.0, 1.0)","{'dropmissing__threshold': 0.5, 'dropmissing__variance_threshold': 0.1, 'model__alpha': 1, 'winsorizer__limits': (0.0, 1.0)}",0.5,0.5,0.5,0.5,0.0,1
+1.1030724843343098,0.1387127120410106,0.15831748644510904,0.026042524695783928,0.5,0.1,1,"(0.0, 1.0)","{'dropmissing__threshold': 0.5, 'dropmissing__variance_threshold': 0.1, 'model__alpha': 1, 'winsorizer__limits': (0.0, 1.0)}",0.5,0.5,0.5,0.5,0.0,1
